@@ -1,10 +1,9 @@
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <h1 style="font-size: 2.5em; margin-bottom: 0;">Hey, I'm Vallery</h1>
   <h3 style="font-weight: 400; max-width: 800px; margin: 0 auto;">
-    I'm a self-driven creative technologist transitioning into full-stack and mobile development,
-    With a solid foundation in UI/UX design, digital marketing, and e-commerce.
-    I’m passionate about building scalable and meaningful digital products that solve real business problems.
-    I currently work as an E-commerce Developer and Specialist.
+    I’m passionate about building seamless, high-performing digital experiences that help businesses grow. 
+    Whether you’re looking to build a mobile app, set up an online store, or customize your Shopify theme, 
+    I can bring your ideas to life—starting with designs and turning them into reality through clean, efficient code.
   </h3>
 </div>
 
