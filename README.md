@@ -10,8 +10,13 @@
 <br />
 
 <div align="center">
-  🔭 I’m currently working on <a href="https://github.com/vflrsm/FinTrack" target="_blank"><strong>FinTrack</strong></a>
+  working on <a href="https://github.com/vflrsm/FinTrack" target="_blank"><strong>FinTrack</strong></a>
 </div>
+
+<div align="center">
+ working on <a href="https://github.com/vflrsm/Shopify-Sections-" target="_blank"><strong>Shopify Sections & Blocks</strong></a>
+</div>
+
 
 <br />
 
